@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1374B-MultiplyBy2DivideBy6"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337B-KanaAndDragonQuestGame", "1337B-KanaAndDragonQuestGame\1337B-KanaAndDragonQuestGame.csproj", "{90F5EFF8-86F6-4E49-83E0-88412E1E354E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "556A-CaseOfTheZerosAndOnes", "556A-CaseOfTheZerosAndOnes\556A-CaseOfTheZerosAndOnes.csproj", "{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{90F5EFF8-86F6-4E49-83E0-88412E1E354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90F5EFF8-86F6-4E49-83E0-88412E1E354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90F5EFF8-86F6-4E49-83E0-88412E1E354E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
