@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1343A-Candies", "1343A-Cand
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "460A-VasyaAndSocks", "460A-VasyaAndSocks\460A-VasyaAndSocks.csproj", "{1C5BE59D-9DFA-4A92-B28C-9668A0BA5685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "313A-IlyAndBankAccount", "313A-IlyAndBankAccount\313A-IlyAndBankAccount.csproj", "{810B80E1-9319-4448-8DD0-302846AE7AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "313A-IlyAndBankAccount", "313A-IlyAndBankAccount\313A-IlyAndBankAccount.csproj", "{810B80E1-9319-4448-8DD0-302846AE7AD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1335B-ConstructTheString", "1335B-ConstructTheString\1335B-ConstructTheString.csproj", "{20965533-E15E-43E4-989A-70F814D05E34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1335B-ConstructTheString", "1335B-ConstructTheString\1335B-ConstructTheString.csproj", "{20965533-E15E-43E4-989A-70F814D05E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1374B-MultiplyBy2DivideBy6", "1374B-MultiplyBy2DivideBy6\1374B-MultiplyBy2DivideBy6.csproj", "{0FA6807E-F7AE-4FB1-991D-32795F38ABF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1374B-MultiplyBy2DivideBy6", "1374B-MultiplyBy2DivideBy6\1374B-MultiplyBy2DivideBy6.csproj", "{0FA6807E-F7AE-4FB1-991D-32795F38ABF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337B-KanaAndDragonQuestGame", "1337B-KanaAndDragonQuestGame\1337B-KanaAndDragonQuestGame.csproj", "{90F5EFF8-86F6-4E49-83E0-88412E1E354E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0FA6807E-F7AE-4FB1-991D-32795F38ABF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FA6807E-F7AE-4FB1-991D-32795F38ABF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FA6807E-F7AE-4FB1-991D-32795F38ABF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F5EFF8-86F6-4E49-83E0-88412E1E354E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F5EFF8-86F6-4E49-83E0-88412E1E354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F5EFF8-86F6-4E49-83E0-88412E1E354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F5EFF8-86F6-4E49-83E0-88412E1E354E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
