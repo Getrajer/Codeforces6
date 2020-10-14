@@ -19,14 +19,12 @@ namespace _1337B_KanaAndDragonQuestGame
                 int void_count = Convert.ToInt32(inptut[1]);
 
                 int lighting_count = Convert.ToInt32(inptut[2]);
-
-                bool fight = true;
                 
 
                 while(hp > 20 && void_count > 0)
                 {
                     hp = hp / 2 + 10;
-                    lighting_count--;
+                    void_count--;
                 }
 
                 while(hp > 0 && lighting_count > 0)
