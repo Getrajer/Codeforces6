@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1335B-ConstructTheString", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1374B-MultiplyBy2DivideBy6", "1374B-MultiplyBy2DivideBy6\1374B-MultiplyBy2DivideBy6.csproj", "{0FA6807E-F7AE-4FB1-991D-32795F38ABF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337B-KanaAndDragonQuestGame", "1337B-KanaAndDragonQuestGame\1337B-KanaAndDragonQuestGame.csproj", "{90F5EFF8-86F6-4E49-83E0-88412E1E354E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1337B-KanaAndDragonQuestGame", "1337B-KanaAndDragonQuestGame\1337B-KanaAndDragonQuestGame.csproj", "{90F5EFF8-86F6-4E49-83E0-88412E1E354E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "556A-CaseOfTheZerosAndOnes", "556A-CaseOfTheZerosAndOnes\556A-CaseOfTheZerosAndOnes.csproj", "{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "556A-CaseOfTheZerosAndOnes", "556A-CaseOfTheZerosAndOnes\556A-CaseOfTheZerosAndOnes.csproj", "{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1204A-BowWowAndTheTimetable", "1204A-BowWowAndTheTimetable\1204A-BowWowAndTheTimetable.csproj", "{C3C32DAF-003A-4198-AECF-A4C905E55413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D458176-7B00-4BC0-BB07-BA22D8E58ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C32DAF-003A-4198-AECF-A4C905E55413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C32DAF-003A-4198-AECF-A4C905E55413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C32DAF-003A-4198-AECF-A4C905E55413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C32DAF-003A-4198-AECF-A4C905E55413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
